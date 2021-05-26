@@ -1,0 +1,12 @@
+Extraia o arquivo zip na pasta do seu servidor wamp ou xamp.
+
+ - Pasta do Wamp C:\wamp\www
+ - Pasta do Xamp C:\xampp\htdocs
+
+* Para o Sistema funcionar é preciso criar o banco de dados no MySQL com o nome "ope".
+* Após criar o BD importar o arquivo ope.sql.
+
+* Após fazer todos procedimento acima, acesse: http://localhost/ope-final/
+
+
+Ass: Paulo Vinicius
